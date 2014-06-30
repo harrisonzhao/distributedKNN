@@ -1,7 +1,8 @@
 distributedKNN
 ==============
 
-distributed system for the K-nearest-neighbors algorithm, it essentially implements map reduce with a depth level of one.
+Distributed system for the K-nearest-neighbors algorithm.
+It supports backups for the master, aggregator, and consumer nodes.
 
 Structure:
 
